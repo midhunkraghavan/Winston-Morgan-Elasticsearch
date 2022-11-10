@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "NODE_TLS_REJECT_UNAUTHORIZED=0; node ./app.js",
+    "start": "nodemon ./app.js"
+  },
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.0.0",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0",
+    "winston": "^3.6.0",
+    "winston-daily-rotate-file": "^4.6.1",
+    "winston-elasticsearch": "^0.16.1"
+  }
+}

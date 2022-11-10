@@ -1,0 +1,2 @@
+{"level":"info","message":"App started"}
+{"contentLength":"32","hostname":"AM-LAPTOP-GERYS","httpVersion":"1.1","level":"http","message":"HTTP Log","method":"POST","pid":85882,"remoteAddress":"::1","statusCode":"200","time":"2022-02-28T16:30:48.101Z","url":"/api/add","user":{"id":10,"name":"Shaj"},"userAgent":"PostmanRuntime/7.29.0"}
